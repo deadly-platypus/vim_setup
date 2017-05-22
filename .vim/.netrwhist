@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/derrick/.ssh'
+let g:netrw_dirhist_2='/home/derrick/Code/Research/Juliet/testcasesupport'
+let g:netrw_dirhist_3='/home/derrick/Code/Research/Juliet'
+let g:netrw_dirhist_4='/home/derrick/Code/Research/Juliet/testcasesupport'
+let g:netrw_dirhist_5='/home/derrick/Code/Research/SPEC-2006/benchspec/CPU2006/400.perlbench'
+let g:netrw_dirhist_6='/home/derrick/Code/Research/SPEC-2006/benchspec/CPU2006/400.perlbench/exe'
+let g:netrw_dirhist_7='/home/derrick/Code/Research/memsafety/code-links'
+let g:netrw_dirhist_8='/home/derrick/Code/Research/softboundcets-34'
+let g:netrw_dirhist_9='/home/derrick/Code/Research/memsafety/tests/Juliet'
